@@ -1,4 +1,5 @@
-# data_science_for_econ
+# Data Science for Economists
+
 Learn R from Grant McDermott's online lectures.
 
 Hello World!
